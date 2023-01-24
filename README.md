@@ -21,8 +21,6 @@
 
 ## 🚀 Tecnologias
 
----
-
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
@@ -34,8 +32,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
----
-
 Habits é um app para ajudar a rastrear seus hábitos.
 
 - [Acesse aqui o projeto]()
@@ -44,16 +40,12 @@ Habits é um app para ajudar a rastrear seus hábitos.
 
 ## 🔖 Layout
 
----
-
 Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/dZzeKa4yU4kk8w7L6m0bJo/Habits-(e)-(Community)?node-id=301%3A130&t=1gp52fadQX2Mfof1-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 <br>
 
 ## 📝 Licença
 
----
 
 Esse projeto está sob a licença MIT.
 
----
