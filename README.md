@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Habits é um app para ajudar a rastrear seus hábitos.
 
-- [Acesse aqui o projeto]()
+- [Acesse aqui o projeto](https://caetanosbr.github.io/nlw-setup/)
 
 <br>
 
